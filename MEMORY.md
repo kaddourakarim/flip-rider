@@ -6,7 +6,10 @@ Project log for Karim + Léo's motorbike flip game. Read this together with CLAU
 - ✅ PRD written: `PRD.md`
 - ✅ Game v1 built: `index.html` (single file, open it in a browser to play)
 - ✅ Tested with automated runs (bots in the browser) on all 3 levels
-- ⏳ GitHub: blocked. git needs the macOS Command Line Tools (`xcode-select --install`), and the GitHub CLI isn't installed
+- ✅ GitHub: https://github.com/kaddourakarim/flip-rider (**private** for now, branch `main`). Commits use the GitHub noreply email.
+  - The GitHub CLI is at `~/.local/bin/gh` (official binary, checksum verified) and is signed in as kaddourakarim.
+  - Workflow: `git add -A && git commit -m "..." && git push`
+- ⏳ Hosting: make the repo public and turn on GitHub Pages to get https://kaddourakarim.github.io/flip-rider/ (waiting for Karim's OK, because CLAUDE.md/PRD mention Léo by name)
 - ⏳ Playtest with Léo, then adjust sensitivity and cup targets
 
 ## Key decisions
